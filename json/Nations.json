@@ -22,12 +22,12 @@
 		"favoredReligion": "Christianity",
 		"uniqueName": "The Glory of Rome",
 		"uniques": [
-		"[1] Gold per [1] population",
-      	"[1] Production per [1] population",
-     	"[1] Science per [1] population",
-      	"[1] Culture per [1] population",
-      	"Specialists provide [5] Production",
-      	"All units built in the capital start with [250] XP"
+		"1 Gold per 1 population",
+      	"1 Production per 1 population",
+     	"1 Science per 1 population",
+      	"1 Culture per 1 population",
+      	"Specialists provide 5 Production",
+      	"All units built in the capital start with 250 XP"
 		],
 		"cities": ["Rome","Antium","Cumae","Neapolis","Ravenna","Arretium","Mediolanum","Arpinum","Circei","Setia",
 			"Satricum","Ardea","Ostia","Velitrae","Viroconium","Tarentum","Brundisium","Caesaraugusta","Caesarea","Palmyra",
