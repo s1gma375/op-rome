@@ -26,7 +26,7 @@
 			"[+1 Gold, +1 Production, +1 Culture] per [1] population [in all cities]",
 			"[+1 Science, +1 Faith, +1 Happiness] per [1] population [in all cities]",
 			"New [Military] units start with [1000] XP [in all cities]",
-			"[+20]% Great Person generation [in all cities]"
+			"[+50]% Great Person generation [in all cities]"
 		],
 		"cities": ["Rome","Antium","Cumae","Neapolis","Ravenna","Arretium","Mediolanum","Arpinum","Circei","Setia",
 			"Satricum","Ardea","Ostia","Velitrae","Viroconium","Tarentum","Brundisium","Caesaraugusta","Caesarea","Palmyra",
